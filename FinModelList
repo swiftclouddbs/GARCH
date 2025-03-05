@@ -1,0 +1,10 @@
+Black-Scholes Model – Used for option pricing and calculating Greeks.
+ARIMA (AutoRegressive Integrated Moving Average) – Time series forecasting for stock prices and economic indicators.
+GARCH (Generalized Autoregressive Conditional Heteroskedasticity) – Models financial market volatility.
+Monte Carlo Simulation – Used for risk assessment and pricing derivatives by simulating various market scenarios.
+Capital Asset Pricing Model (CAPM) – Determines the expected return of an asset based on risk and market return.
+Fama-French Three-Factor Model – Extends CAPM by adding size and value factors to explain stock returns.
+Vasicek & CIR (Cox-Ingersoll-Ross) Models – Interest rate models used in fixed income pricing.
+Heston Model – Stochastic volatility model for option pricing.
+Mean-Variance Portfolio Optimization (Markowitz Model) – Helps investors build an optimal portfolio with risk-return trade-offs.
+Binomial Option Pricing Model – A discrete-time model for pricing options, useful for American-style options.
