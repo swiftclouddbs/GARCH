@@ -9,3 +9,13 @@ Monte Carlo Simulation – Used for risk assessment and pricing derivatives by s
 **Mean-Variance Portfolio Optimization (Markowitz Model) – Helps investors build an optimal portfolio with risk-return trade-offs.
 **Binomial Option Pricing Model – A discrete-time model for pricing options, useful for American-style options.
 ** Good to post on HF.  Not much competition.
+
+
+Does Every Investment House Have a "Secret Sauce" GARCH Model?
+Absolutely! While the basic GARCH framework is well-known, hedge funds, investment banks, and quantitative funds tweak models to fit their strategies. Some examples of proprietary enhancements include:
+•	Custom feature selection: Incorporating macroeconomic indicators, options data, or alternative data sources (e.g., Twitter sentiment).
+•	Hybrid models: Combining GARCH with machine learning (LSTMs, reinforcement learning).
+•	Risk management tuning: Adjusting parameters dynamically based on market regime changes.
+Firms like Citadel, Renaissance Technologies, and Two Sigma likely have proprietary GARCH-like models deeply embedded in their trading algorithms.
+
+Every shop probably has custom models that need to brought out of the closet.
