@@ -1,3 +1,5 @@
+#DO NOT ADD HOVER FUNCTIONALITY FOR HF!  DEMO HOVER ON BASIC STOCK CHART!!
+#
 import gradio as gr
 import yfinance as yf
 import numpy as np
